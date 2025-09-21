@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd{
+    background-color: #e599a5;
+    font-family: Verdana,DejaVu Sans, sans-serif;
+}
+.odd.diff{
+    font-size: 24px;
+}
+#unique{
+    color: #2b2bd3;
+    font-size: 36px;
+}
+#another-id{
+    background-color: lightgreen;
+    font-size: 36px;
+    font-weight: bold;
+}
